@@ -1,0 +1,3 @@
+[submodule "docs/docs.clientxcms.com"]
+	path = docs/docs.clientxcms.com
+	url = git@github.com:alexwrite/docs.clientxcms.com.git
